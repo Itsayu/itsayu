@@ -1,4 +1,5 @@
-### Hi there, I am Ayush 👋
+
+<h1 align="center"> Hi there, I am Ayush 👋</h1>
 
 
 <!-- **Itsayu/itsayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- github stats and graph -->
 <h1 align="center">
- 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 
+<img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
 </h1>
 
 <p align="center">
@@ -31,4 +32,14 @@ Here are some ideas to get you started:
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsayu&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
+
 ![Ayush's's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsayu&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+
+
+
+<!-- outro -->
+<!-- <div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/{itsayu}/count.svg)
+  
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 the 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! -->
