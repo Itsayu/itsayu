@@ -60,23 +60,65 @@ Here are some ideas to get you started:
 
 <!-- Connect me -->
 
-<h2 align="center">Let's Connect:</h2>
+<!-- <h2 align="center">Let's Connect:</h2>
 <p align="center">
 <a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayush-kumar-432801206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/its_a.k.t?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_a.k.t" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009518215980" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
  <a href="https://www.quora.com/profile/Ayush-Tiwari-794" target="blank"><img align="center" src="https://www.svgrepo.com/show/343515/quora-network-communication-chat-conversation-connection.svg" alt=" " height="30" width="40" /></a>
+</p>
+<br> -->
+
+
+<!-- Coding Platform -->
+
+<h2 align="center">Coding Platform Where Usually I Active:</h2>
+<p align="center">
+<a href="https://leetcode.com/itsayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsayu" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/its_akt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="its_akt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushkr9976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkr9976" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@itsayu" target="blank"><img align="center" src="https://www.svgrepo.com/show/341890/hackerearth.svg" alt="ayushkr9976" height="30" width="40" /></a>
-<a href="https://leetcode.com/itsayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsayu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18422627/ayush-kumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" alt=" " height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/itsayu/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/itsayu/profile" height="30" width="40" /></a>
 <a href="https://dev.to/itsayu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsayu" height="30" width="40" /></a>
-
 </p>
 <br>
+
+<!-- Activity -->
+<h1 align="center">Activity</h1>
+<br>
+<p align="center">While I try to stay consistent, here is what I've put together so far.</p>
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsayu&theme=monokai">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsayu&theme=monokai">&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsayu&theme=monokai">
+</p>
+
+
+<!-- Connect with me -->
+<h1 align="center">Let's Connect</h1>
+<br>
+<p align="center">Whether you are willing to collaborate or just checking my activity, Feel free to connect</p>
+<br>
+
+<p align="center">
+<a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-kumar-432801206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/its_a.k.t?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_a.k.t" height="30" width="40" /></a>
+<a href="mailto:ayushkr9976@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009518215980" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Ayush-Tiwari-794" target="blank"><img align="center" src="https://www.svgrepo.com/show/343515/quora-network-communication-chat-conversation-connection.svg" alt=" " height="30" width="40" /></a>
+</p>
+
+  
+
+<!-- Github contribution grid snake -->
+<p align="center"><img alt="Snake GIF" src="https://github.com/itsayu/itsayu/blob/output/github-contribution-grid-snake.svg"></p>
 
 
 <!-- outro -->
