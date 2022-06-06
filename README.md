@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
 
+<h1 align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsayu&theme=dark&hide_border=true" width=700px>
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsayu&theme=dark&hide_border=true"/>
-  
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=itsayu&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/itsayu)
-
+<!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=itsayu&column=8&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/itsayu) -->
+ 
+</h1>
 
 <!-- github stats and graph -->
 <h1 align="center">
