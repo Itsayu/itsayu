@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
 
+
 <h1 align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsayu&theme=dark&hide_border=true" width=700px>
 
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <a href="https://twitter.com/its_aKT_" target="blank"><img src="https://img.shields.io/twitter/follow/its_akt_?logo=twitter&style=for-the-badge" alt="its_akt_" /></a> 
 </p> -->
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Let's Connect:</h2>
 <p align="left">
 <a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayush-kumar-432801206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar" height="30" width="40" /></a>
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
 
 
 <!-- Languages -->
-<h2 align="left">Languages:</h2>
+<h2 align="left">Languages & Tools:</h2>
 <p align="left">
 <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -75,7 +76,7 @@ Here are some ideas to get you started:
 
 <!-- outro -->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=itsayu alt=itsayu/> </p>
-<p align="left"> <a href="https://twitter.com/its_aKT_" target="blank"><img src="https://img.shields.io/twitter/follow/its_akt_?logo=twitter&style=for-the-badge" alt="its_akt_" /></a> 
+<p align="center"> <a href="https://twitter.com/its_aKT_" target="blank"><img src="https://img.shields.io/twitter/follow/its_akt_?logo=twitter&style=for-the-badge" alt="its_akt_" /></a> 
 </p>
 <!-- <div align="center">
   
