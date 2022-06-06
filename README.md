@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <!-- Connect with me -->
 <h1 align="center">Let's Connect</h1>
 <br>
-<p align="center">Whether you are willing to collaborate or just checking my activity, Feel free to connect</p>
+<p align="center">Whether you are willing to collaborate or just checking my activity, Feel free to connect :)</p>
 <br>
 
 <p align="center">
