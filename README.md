@@ -90,9 +90,7 @@ Here are some ideas to get you started:
 
 <!-- Connect with me -->
 <h1 align="center">Let's Connect</h1>
-<br>
 <p align="center">Whether you are willing to collaborate or just checking my activity, Feel free to connect :)</p>
-<br>
 
 <p align="center">
 <a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a>
@@ -105,9 +103,13 @@ Here are some ideas to get you started:
 </p>
 
   
-
+<br>
 <!-- Github contribution grid snake -->
-<p align="center"><img alt="Snake GIF" src="https://github.com/itsayu/itsayu/blob/output/github-contribution-grid-snake.svg"></p>
+<h1 align="center">Contributions</h1>
+<p align="center">
+<img alt="Snake GIF" src="https://github.com/itsayu/itsayu/blob/output/github-contribution-grid-snake.svg">
+</p>
+<br>
 
 
 <!-- outro -->
