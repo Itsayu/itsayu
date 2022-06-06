@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- github stats and graph -->
 <h1 align="center">
-<img height="30"src="GIF/sparkling-stars.gif"> 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 <img height="30"src="GIF/sparkling-stars.gif">
+✨𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒✨
 </h1>
 
 <p align="center">
