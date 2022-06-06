@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ayush-kumar-432801206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/its_a.k.t?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_a.k.t" height="30" width="40" /></a>
 <a href="mailto:ayushkr9976@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
-<!-- <a href="https://t.me/its_akt"><img alt="Telegram" src="https://www.svgrepo.com/show/65315/telegram.svg"></a> -->
+<a href="https://t.me/its_akt" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009518215980" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Ayush-Tiwari-794" target="blank"><img align="center" src="https://www.svgrepo.com/show/343515/quora-network-communication-chat-conversation-connection.svg" alt=" " height="30" width="40" /></a>
 </p>
