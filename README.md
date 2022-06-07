@@ -14,14 +14,13 @@
 Here are some ideas to get you started:
  -->
 - 🔭 I’m currently working on Problem Solving Skill
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python       <!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/logos-removebg-preview.png?raw=true" align="right"> -->
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about nothing
 - 📫 How to reach me: @its_AKT_
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
-
 
 <h1 align="center">
  <!-- Typing Widget -->
