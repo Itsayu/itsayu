@@ -2,8 +2,11 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/itsayu?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/itsayu?style=social"> &nbsp;&nbsp;
 
 
+<!-- -------------------------------BG Template---------------------------- -->
+
 <p align="center">
-<img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/hlo.png">
+<!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/hlo.png"> -->
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="center" width="1100" height="480"/>
   </p>
 
 
@@ -13,8 +16,9 @@
 <!-- **Itsayu/itsayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
  -->
+<!--  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="450" height="250"/> -->
 - 🔭 I’m currently working on Problem Solving Skill
-- 🌱 I’m currently learning Python       <!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/logos-removebg-preview.png?raw=true" align="right"> -->
+- 🌱 I’m currently learning Python       <!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/logos-removebg-preview.png?raw=true" align="right"> -->   
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about nothing
@@ -128,6 +132,8 @@ Here are some ideas to get you started:
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=itsayu alt=itsayu/> </p>
 <p align="center"> <a href="https://twitter.com/its_aKT_" target="blank"><img src="https://img.shields.io/twitter/follow/its_akt_?logo=twitter&style=for-the-badge" alt="its_akt_" /></a> 
 </p>
+
+
 
 <!--   
   ![Visitor Count](https://profile-counter.glitch.me/{itsayu}/count.svg)
