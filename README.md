@@ -5,8 +5,8 @@
 <!-- -------------------------------BG Template---------------------------- -->
 
 <p align="center">
-<!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/hlo.png"> -->
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="center" width="1100" height="480"/>
+<img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/hlo.png">
+<!-- <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="center" width="1100" height="500"/> -->
   </p>
 
 
@@ -15,13 +15,12 @@
 
 <!-- **Itsayu/itsayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
- -->
-<!--  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="450" height="250"/> -->
+ --><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="400" height="220"/>
 - 🔭 I’m currently working on Problem Solving Skill
 - 🌱 I’m currently learning Python       <!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/logos-removebg-preview.png?raw=true" align="right"> -->   
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
-- 💬 Ask me about nothing
+- 💬 Ask me about anything, i am happy to help:)
 - 📫 How to reach me: @its_AKT_
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
