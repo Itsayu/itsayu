@@ -1,4 +1,12 @@
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/itsayu?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/itsayu?style=social"> &nbsp;&nbsp;
+
+
+<p align="center">
+<img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/hlo.png">
+  </p>
+
+
 <h1 align="center">Hi there, I'm Ayush Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 
@@ -50,11 +58,15 @@ Here are some ideas to get you started:
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://www.svgrepo.com/show/217753/github.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://sqlitebrowser.org/" target="_blank"> <img src="https://www.svgrepo.com/show/331759/sql-azure.svg" alt="css3" width="40" height="40"/> </a>
+
 </p>
 
 <!-- <h4 align="center">Tech stack that I usually work with...!</h4> -->
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=>>>Tech+stack+that+I+usually+work+with...!&font=sans-serif&center=true&size=12">
-<a href="" target="_blank"> <img src="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/main/img/header_.png?raw=true" alt="css3" width="100%" height="100%"/> </a>
+<!-- <a href="" target="_blank"> <img src="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/main/img/header_.png?raw=true" alt="css3" width="100%" height="100%"/> </a> -->
+
+<a href="" target="_blank"> <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/header_1-removebg.png?raw=true" alt="css3" width="100%" height="100%"/> </a>
 <br>
 <br>
 
@@ -64,8 +76,8 @@ Here are some ideas to get you started:
 <h2 align="center">Coding Platform Where I'm Usually Active</h2>
 <p align="center">
 <a href="https://leetcode.com/itsayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsayu" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/its_akt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="its_akt" height="40" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/itsayu/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/itsayu/profile" height="40" width="50" /></a>
+<a href="https://www.codechef.com/users/its_akt" target="blank"><img align="center" src="https://img.icons8.com/color/72/codechef.png" alt="its_akt" height="45" width="55" /></a>
+<a href="https://auth.geeksforgeeks.org/user/itsayu/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/itsayu/profile" height="45" width="55" /></a>
 <a href="https://www.hackerrank.com/ayushkr9976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkr9976" height="40" width="50" /></a>
 <a href="https://www.hackerearth.com/@itsayu" target="blank"><img align="center" src="https://www.svgrepo.com/show/341890/hackerearth.svg" alt="ayushkr9976" height="40" width="50" /></a>
 <a href="https://stackoverflow.com/users/18422627/ayush-kumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" alt=" " height="40" width="50" /></a>
