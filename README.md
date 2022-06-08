@@ -15,7 +15,7 @@
 
 <!-- **Itsayu/itsayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
- --><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="390" height="210"/>
+ --><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="380" height="205"/>
  
  
 - 🔭 I’m currently working on Problem Solving Skill
