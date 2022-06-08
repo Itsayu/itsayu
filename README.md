@@ -15,7 +15,7 @@
 
 <!-- **Itsayu/itsayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
- --><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="400" height="220"/>
+ --><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="390" height="210"/>
 - 🔭 I’m currently working on Problem Solving Skill
 - 🌱 I’m currently learning Python       <!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/logos-removebg-preview.png?raw=true" align="right"> -->   
 - 👯 I’m looking to collaborate on Projects
