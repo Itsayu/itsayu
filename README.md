@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/" target="_blank"> <img src="https://www.svgrepo.com/show/217753/github.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sqlitebrowser.org/" target="_blank"> <img src="https://www.svgrepo.com/show/331759/sql-azure.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://firebase.google.com/?gclid=Cj0KCQjwwJuVBhCAARIsAOPwGASqzwYkVTyxuvVZNvlSaj5PGqg0GGpj-urtyAa6w2iBRQME29w0KkwaAqzwEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src=" https://www.svgrepo.com/svg/353735/firebasefire" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/svg/346250/reactjs-fill" alt="css3" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.svgrepo.com/svg/354118/nodejs" alt="css3" width="40" height="40"/> </a> -->
+<a href="https://firebase.google.com/?gclid=Cj0KCQjwwJuVBhCAARIsAOPwGASqzwYkVTyxuvVZNvlSaj5PGqg0GGpj-urtyAa6w2iBRQME29w0KkwaAqzwEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="css3" width="39" height="39"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="css3" width="42" height="42"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="css3" width="47" height="47"/> </a>
 
   
 </p>
