@@ -66,8 +66,6 @@ Here are some ideas to get you started:
 <a href="https://firebase.google.com/?gclid=Cj0KCQjwwJuVBhCAARIsAOPwGASqzwYkVTyxuvVZNvlSaj5PGqg0GGpj-urtyAa6w2iBRQME29w0KkwaAqzwEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="css3" width="39" height="39"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="css3" width="42" height="42"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="css3" width="47" height="47"/> </a>
-
-  
 </p>
 
 <!-- <h4 align="center">Tech stack that I usually work with...!</h4> -->
