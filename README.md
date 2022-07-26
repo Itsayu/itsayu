@@ -138,7 +138,3 @@ Here are some ideas to get you started:
 
 
 
-<!--   
-  ![Visitor Count](https://profile-counter.glitch.me/{itsayu}/count.svg)
-  
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 the 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!  -->
