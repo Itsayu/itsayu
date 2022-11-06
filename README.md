@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
 
+
+
+<h1 align="center">
+[![@itsayu's Holopin board](https://holopin.me/itsayu)](https://holopin.io/@itsayu)
+</h1>
+
 <h1 align="center">
  <!-- Typing Widget -->
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Web+Developer;Computer+Science+Student;Tech+Geek;Content+Writer&font=sans-serif&center=true&size=12">
