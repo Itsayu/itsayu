@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You won't read it...!
 
 
+[![@itsayu's Holopin board](https://holopin.me/itsayu)](https://holopin.io/@itsayu)
+
+
 
 <h1 align="center">
-[![@itsayu's Holopin board](https://holopin.me/itsayu)](https://holopin.io/@itsayu)
 </h1>
 
 <h1 align="center">
