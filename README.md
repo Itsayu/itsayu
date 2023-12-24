@@ -17,11 +17,11 @@ Here are some ideas to get you started:
  --><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="380" height="208"/>
  
  
-- 🔭 I’m currently working on Problem Solving Skill
+- 🔭 I’m currently working on Problem-Solving Skill
 - 🌱 I’m currently learning Python       <!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/logos-removebg-preview.png?raw=true" align="right"> -->   
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
-- 💬 Ask me about anything, i am happy to help:)
+- 💬 Ask me about anything, I'm happy to help:)
 - 📫 How to reach me: @its_AKT_
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  
 </h1>
 
-<!-- github stats and graph -->
+<!-- GitHub stats and graph -->
 <h1 align="center">
 ✨𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒✨
 </h1>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![Ayush's's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsayu&theme=gotham&hide_border=true&area=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
+![Ayush's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=itsayu&theme=gotham&hide_border=true&area=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true)
 
 
 <!-- Languages -->
@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 <!-- Connect with me -->
 <h1 align="center">Let's Connect</h1>
-<p align="center">Whether you are willing to collaborate or just checking my activity, Feel free to connect :)</p>
+<p align="center">Whether you are willing to collaborate or check my activity, Feel free to connect :)</p>
 
 <p align="center">
 <a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a>
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 <!-- Github contribution grid snake -->
 <h1 align="center">Contributions</h1>
 <p align="center">
-<img alt="Snake GIF" src="https://github.com/itsayu/itsayu/blob/output/github-contribution-grid-snake.svg">
+![Snake animation](https://github.com/itsayu/itsayu/blob/output/github-contribution-grid-snake.svg)
 </p>
 <br>
 
