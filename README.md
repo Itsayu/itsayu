@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 <!-- Github contribution grid snake -->
 <h1 align="center">Contributions</h1>
 <p align="center">
-![snake animation](https://github.com/itsayu/itsayu/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/itsayu/blob/output/github-contribution-grid-snake2.svg)
 </p>
 <be>
 
