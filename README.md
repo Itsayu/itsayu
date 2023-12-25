@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![Ayush's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=itsayu&theme=gotham&hide_border=true&area=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true)
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsayu&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Languages -->
@@ -82,10 +82,6 @@ Here are some ideas to get you started:
 <a href="" target="_blank"> <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/header_1-removebg.png?raw=true" alt="css3" width="100%" height="100%"/> </a>
 <br>
 <be>
-
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/itsayu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/itsayu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 
 <!-- Coding Platform -->
 
