@@ -136,10 +136,6 @@ Here are some ideas to get you started:
 </p>
 <be>
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/itsayu/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/itsayu/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <!-- outro -->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=itsayu alt=itsayu/> </p>
 <p align="center"> <a href="https://twitter.com/its_aKT_" target="blank"><img src="https://img.shields.io/twitter/follow/its_akt_?logo=twitter&style=for-the-badge" alt="its_akt_" /></a> 
