@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 <h1 align="center">Contributions</h1>
 <p align="center">
 <!-- (https://github.com/itsayu/itsayu/itsayu/output/github-contribution-grid-snake.svg) -->
- ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/itsayu/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/itsayu/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </p>
 <br>
 
