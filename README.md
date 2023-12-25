@@ -81,7 +81,10 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank"> <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/header_1-removebg.png?raw=true" alt="css3" width="100%" height="100%"/> </a>
 <br>
-<br>
+<be>
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <!-- Coding Platform -->
