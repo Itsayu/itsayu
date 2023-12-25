@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsayu/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/itsayu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsayu/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- outro -->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=itsayu alt=itsayu/> </p>
