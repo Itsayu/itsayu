@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsayu&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsayu&bg_color=000000&color=d9d9d9&line=85809d&point=ff8f33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Languages -->
@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 <!-- Github contribution grid snake -->
 <h1 align="center">Contributions</h1>
 <p align="center">
-(https://github.com/itsayu/itsayu/itsayu/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/itsayu/itsayu/blob/output/github-contribution-grid-snake2.svg)
 </p>
 <br>
 
