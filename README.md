@@ -110,7 +110,10 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsayu&theme=monokai">&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsayu&theme=monokai">
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsayu&theme=monokai" alt="Stats"/>&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsayu&theme=monokai" alt="Productive Time"/>
+</p>
 
 <!-- Connect with me -->
 <h1 align="center">Let's Connect</h1>
