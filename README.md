@@ -135,7 +135,13 @@ Here are some ideas to get you started:
 <!-- Github contribution grid snake -->
 <h1 align="center">Contributions</h1>
 <p align="center">
-![snake animation](https://github.com/itsayu/blob/output/github-contribution-grid-snake2.svg)
+<!-- ![snake animation](https://github.com/itsayu/blob/output/github-contribution-grid-snake2.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsayu/itsayu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsayu/itsayu/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/itsayu/itsayu/output/github-snake.svg" />
+</picture>
+
 </p>
 <be>
 
