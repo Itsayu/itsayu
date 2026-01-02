@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
  
 - 🔭 I’m currently working on Problem-Solving Skill
-- 🌱 I’m currently learning Python       <!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/logos-removebg-preview.png?raw=true" align="right"> -->   
+- 🌱 I’m currently learning GenAI       <!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/logos-removebg-preview.png?raw=true" align="right"> -->  
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything, I'm happy to help:)
