@@ -142,14 +142,14 @@ Here are some ideas to get you started:
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/itsayu/itsayu/output/github-snake.svg" />
 </picture> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsayu&label=Visitors&color=181717&style=flat" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsayu&label=Visitors&color=181717&style=flat" /> </p>
 
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
 </picture>
-<br>
+<br> -->
 
 </p>
 <be>
