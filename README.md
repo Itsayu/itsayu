@@ -61,19 +61,57 @@ Here are some ideas to get you started:
 
 <!-- Languages -->
 <h1 align="center">Languages & Tools</h1>
+
 <p align="center">
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://www.svgrepo.com/show/217753/github.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sqlitebrowser.org/" target="_blank"> <img src="https://www.svgrepo.com/show/331759/sql-azure.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/?gclid=Cj0KCQjwwJuVBhCAARIsAOPwGASqzwYkVTyxuvVZNvlSaj5PGqg0GGpj-urtyAa6w2iBRQME29w0KkwaAqzwEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="css3" width="39" height="39"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="css3" width="42" height="42"/> </a>
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="css3" width="47" height="47"/> </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  </a>
+  
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  </a>
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  </a>
+  
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  </a>
+  
+  <a href="https://github.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/217753/github.svg" width="40" />
+  </a>
+  
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="40" />
+  </a>
+  
+  <a href="https://sqlitebrowser.org/" target="_blank">
+    <img src="https://www.svgrepo.com/show/331759/sql-azure.svg" width="40" />
+  </a>
+  
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="40" />
+  </a>
+  
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://www.svgrepo.com/show/374035/reactts.svg" width="40" />
+  </a>
+  
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://www.svgrepo.com/show/354118/nodejs.svg" width="40" />
+  </a>
 </p>
+
 
 <!-- <h4 align="center">Tech stack that I usually work with...!</h4> -->
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=>>>Tech+stack+that+I+usually+work+with...!&font=sans-serif&center=true&size=12">
@@ -86,16 +124,37 @@ Here are some ideas to get you started:
 <!-- Coding Platform -->
 
 <h2 align="center">Coding Platform Where I'm Usually Active</h2>
+
 <p align="center">
-<a href="https://leetcode.com/itsayu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsayu" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/its_akt" target="blank"><img align="center" src="https://img.icons8.com/color/72/codechef.png" alt="its_akt" height="45" width="55" /></a>
-<a href="https://auth.geeksforgeeks.org/user/itsayu/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/itsayu/profile" height="45" width="55" /></a>
-<a href="https://www.hackerrank.com/itsayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkr9976" height="40" width="50" /></a>
-<a href="https://www.hackerearth.com/@itsayu" target="blank"><img align="center" src="https://www.svgrepo.com/show/341890/hackerearth.svg" alt="ayushkr9976" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/18422627/ayush-kumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" alt=" " height="40" width="50" /></a>
-<a href="https://dev.to/itsayu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="itsayu" height="40" width="50" /></a>
+  <a href="https://leetcode.com/itsayu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/its_akt" target="_blank">
+    <img src="https://img.icons8.com/color/72/codechef.png" width="45" />
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/itsayu/profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="45" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/itsayu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="45" />
+  </a>
+  
+  <a href="https://www.hackerearth.com/@itsayu" target="_blank">
+    <img src="https://www.svgrepo.com/show/341890/hackerearth.svg" width="45" />
+  </a>
+  
+  <a href="https://stackoverflow.com/users/18422627/ayush-kumar" target="_blank">
+    <img src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" width="45" />
+  </a>
+  
+  <a href="https://dev.to/itsayu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="45" />
+  </a>
 </p>
-<br>
+
 
 <!-- Activity -->
 <h1 align="center">Activity</h1>
@@ -116,19 +175,40 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Connect with me -->
-<h1 align="center">Let's Connect</h1>
-<p align="center">Whether you are willing to collaborate or check my activity, Feel free to connect :)</p>
-
 <p align="center">
-<a href="https://twitter.com/its_akt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_akt_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayush-kumar-432801206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar" height="28" width="40" /></a>
-<a href="https://discord.gg/Itsayu#5915" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ayush-kumar" height="35" width="45" /></a>
-<a href="https://instagram.com/its_a.k.t?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_a.k.t" height="28" width="38" /></a>
-<a href="mailto:ayushkr9976@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
-<a href="https://t.me/its_akt" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009518215980" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Ayush Kumar Tiwari" height="28" width="37" /></a>
-<a href="https://www.quora.com/profile/Ayush-Tiwari-794" target="blank"><img align="center" src="https://www.svgrepo.com/show/343515/quora-network-communication-chat-conversation-connection.svg" alt=" " height="28" width="38" /></a>
+  <a href="https://twitter.com/its_akt_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35" style="margin: 0 10px;" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ayush-kumar-432801206" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" style="margin: 0 10px;" />
+  </a>
+  
+  <a href="https://discord.gg/Itsayu#5915" target="_blank">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="35" style="margin: 0 10px;" />
+  </a>
+  
+  <a href="https://instagram.com/its_a.k.t" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" style="margin: 0 10px;" />
+  </a>
+  
+  <a href="mailto:ayushkr9976@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" width="35" style="margin: 0 10px;" />
+  </a>
+  
+  <a href="https://t.me/its_akt" target="_blank">
+    <img src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" width="35" style="margin: 0 10px;" />
+  </a>
+  
+  <a href="https://www.facebook.com/profile.php?id=100009518215980" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="35" style="margin: 0 10px;" />
+  </a>
+  
+  <a href="https://www.quora.com/profile/Ayush-Tiwari-794" target="_blank">
+    <img src="https://www.svgrepo.com/show/343515/quora-network-communication-chat-conversation-connection.svg" width="35" style="margin: 0 10px;" />
+  </a>
 </p>
+
 
   
 <br>
